@@ -1,2 +1,2 @@
 # learning_webd
-this repo is only for learning git 
+this repo is only for learning git & github
